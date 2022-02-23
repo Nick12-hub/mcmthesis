@@ -6,7 +6,7 @@ Some modifications to the template。
 
 * [latexstudio][latexstudio]: 343083553@qq.com
 * [Liam Huang][liam-ctan]: liamhuang0205+mcmthesis@gmail.com
-* [Cunquan Lee](Cunquan Lee): cunquanli@gmail.com (Some modifications)
+* [Cunquan Lee](Cunquan-Lee): cunquanli@gmail.com (Some modifications)
 
 ## Project Page
 
