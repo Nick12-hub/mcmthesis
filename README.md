@@ -1,6 +1,6 @@
 ## Some revise
 
-Some modifications to the template will make it easier for newcomers and first-time contestants.
+Some **modifications** to the template will make it easier for newcomers and first-time contestants.
 
 ## Authors
 
