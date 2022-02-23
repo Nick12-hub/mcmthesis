@@ -1,12 +1,12 @@
 ## Some revise
 
-Some modifications to the template
+Some modifications to the template。
 
 ## Authors
 
 * [latexstudio][latexstudio]: 343083553@qq.com
 * [Liam Huang][liam-ctan]: liamhuang0205+mcmthesis@gmail.com
-* [Cunquan Lee][Cunquan Lee]: cunquanli@gmail.com (Some Revise)
+* [Cunquan Lee][Cunquan Lee]: cunquanli@gmail.com 
 
 ## Project Page
 
